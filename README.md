@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasan Alam</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
-
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanalam365&label=Profile%20views&color=0e75b6&style=flat" alt="hasanalam365" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanalam365" alt="hasanalam365" /></a> </p>
