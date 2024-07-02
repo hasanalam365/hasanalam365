@@ -4,17 +4,16 @@
 ## 🌐 Reach Out Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hasanalam365) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasanalam365) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hasanalam365&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=hasanalam365&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
-<br/>
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=hasanalam365&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 <br/>
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=hasanalam365&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanalam365&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br/>
 
