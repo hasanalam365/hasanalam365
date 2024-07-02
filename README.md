@@ -21,7 +21,7 @@
 <table align="center">
   <tr align="center">
     <td>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hasanalam365&theme=react&hide_border=true&&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hasanalam365&theme=transparent&hide_border=true&&include_all_commits=true&count_private=true&layout=compact" />
     </td>
     <td>
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanalam365&theme=transparent&hide_border=true&&include_all_commits=true&count_private=true&layout=compact" />
