@@ -1,3 +1,13 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;]https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I+am+Hasan+Alam;A+Passionate+Frontend+Developer" />
+</h1>
+
+
+
 
 <h2 align="">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
